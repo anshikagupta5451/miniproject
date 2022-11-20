@@ -1,0 +1,27 @@
+.form-control
+{
+    margin:50px;
+}
+.color-changer
+{
+    display: flex;
+    gap:20px;
+    padding: 10px;
+    width: fit-contnet;
+    margin-inline: auto;
+}
+
+input[type="radio"]
+{
+    appearance: none;
+    height: 1.5rem; 
+    width: 1.5rem;
+    border: 2px solid;
+    border-radius: 50%; 
+}
+
+iput[type="radio"]:checked{
+    background-color: var(--radio-color);
+}
+
+
