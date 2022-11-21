@@ -136,3 +136,27 @@ form .fa-search
    text-align: center;
    padding-top: 5px;
 }
+.second{
+    display: flex;
+    justify-content: space-around;
+    background-color: #010001;
+    /* background-color: white; */
+    color: white;
+    }
+    
+    .second div{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .second input{
+        border-radius: 5px;
+        padding: 5px;
+    }
+    .second button:hover{
+        background-color: #29d9d5;
+        color: black;
+    }
+    .second button{
+        color:#29d9d5;
+        border: 1px solid #29d9d5;
+    }

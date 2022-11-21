@@ -57,9 +57,9 @@ header{
 .navbar a:hover{
 	color: var(--main-color);
 }
-.navbar a.active{
+/* .navbar a.active{
 	color: var(--main-color);
-}
+} */
 .main{
 	display: flex;
 	align-items: center;
