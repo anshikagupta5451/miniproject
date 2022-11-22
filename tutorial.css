@@ -34,7 +34,8 @@
     color:  black;
     font-size: 60px;
     align-items: center;
-    padding-left: 35%;
+    text-align: center;
+    /* padding-left: 35%; */
     padding-top: 10%;
     
 }
